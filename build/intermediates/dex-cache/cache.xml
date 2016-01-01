@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/usr/code_tmp/AndroidStudio/Projects/CircularProgressButton/sample/build/intermediates/exploded-aar/CircularProgressButton/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="c7835f623f3d13a36117c23f1dd414257507c3a0">
+        <dex dex="/usr/code_tmp/AndroidStudio/Projects/CircularProgressButton/sample/build/intermediates/pre-dexed/debug/classes-dad207172905f1b71aa720c9ed53f0e638add49e.jar" />
+    </item>
+
+</items>

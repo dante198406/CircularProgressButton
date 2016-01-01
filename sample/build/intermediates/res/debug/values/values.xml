@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/usr/code_tmp/AndroidStudio/Projects/CircularProgressButton/sample/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <array name="sample_list">
+        <item>@string/IndeterminateProgressSample</item>
+        <item>@string/IntegerProgressSample</item>
+        <item>@string/StateChangeSample</item>
+        <item>@string/ProgressPaddingSample</item>
+        <item>@string/CustomSelectorSample</item>
+    </array>
+    <!-- From: file:/usr/code_tmp/AndroidStudio/Projects/CircularProgressButton/sample/build/intermediates/exploded-aar/CircularProgressButton/library/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="cpb_blue">#ff0099cc</color>
+    <color name="cpb_blue_dark">#ff00719b</color>
+    <color name="cpb_green">#ff99cc00</color>
+    <color name="cpb_green_dark">#ff6d9b00</color>
+    <color name="cpb_grey">#ffdedede</color>
+    <color name="cpb_red">#ffff4444</color>
+    <color name="cpb_red_dark">#ffcd3a3a</color>
+    <color name="cpb_white">@android:color/white</color>
+    <declare-styleable name="CircularProgressButton"><attr format="reference" name="cpb_selectorIdle"/><attr format="reference" name="cpb_selectorComplete"/><attr format="reference" name="cpb_selectorError"/><attr format="string" name="cpb_textComplete"/><attr format="string" name="cpb_textIdle"/><attr format="string" name="cpb_textError"/><attr format="string" name="cpb_textProgress"/><attr format="color" name="cpb_colorProgress"/><attr format="color" name="cpb_colorIndicator"/><attr format="color" name="cpb_colorIndicatorBackground"/><attr format="reference" name="cpb_iconError"/><attr format="reference" name="cpb_iconComplete"/><attr format="dimension" name="cpb_cornerRadius"/><attr format="dimension" name="cpb_paddingProgress"/></declare-styleable>
+    <dimen name="cpb_stroke_width">4dp</dimen>
+    <!-- From: file:/usr/code_tmp/AndroidStudio/Projects/CircularProgressButton/sample/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Complete">Complete</string>
+    <string name="CustomSelectorSample">Custom Selector Sample</string>
+    <string name="Error">Error</string>
+    <string name="IndeterminateProgressSample">Indeterminate Progress Sample</string>
+    <string name="IntegerProgressSample">Integer Progress Sample</string>
+    <string name="ProgressPaddingSample">Progress Padding Sample</string>
+    <string name="StateChangeSample">State Change Sample</string>
+    <string name="Upload">Upload</string>
+    <string name="app_name">Circular Progress Button</string>
+    <!-- From: file:/usr/code_tmp/AndroidStudio/Projects/CircularProgressButton/sample/build/intermediates/exploded-aar/CircularProgressButton/library/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="define_circularprogressbutton">circularprogressbutton</string>
+    <string name="library_circularprogressbutton_author">Dmytro Danylyk</string>
+    <string name="library_circularprogressbutton_authorWebsite">http://dmytrodanylyk.com/</string>
+    <string name="library_circularprogressbutton_isOpenSource">true</string>
+    <string name="library_circularprogressbutton_libraryDescription">Android Button which can morph to Circular Progress.</string>
+    <string name="library_circularprogressbutton_libraryName">Circular Progress Button</string>
+    <string name="library_circularprogressbutton_libraryVersion">1.1.0</string>
+    <string name="library_circularprogressbutton_libraryWebsite">http://dmytrodanylyk.com/pages/portfolio/circular-progress-button.html</string>
+    <string name="library_circularprogressbutton_licenseId">mit</string>
+    <string name="library_circularprogressbutton_repositoryLink">https://github.com/dmytrodanylyk/circular-progress-button</string>
+    <!-- From: file:/usr/code_tmp/AndroidStudio/Projects/CircularProgressButton/sample/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
